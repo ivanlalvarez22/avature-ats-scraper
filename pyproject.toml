@@ -1,0 +1,14 @@
+[project]
+name = "avature-ats-scraper"
+version = "0.1.0"
+description = "Simple scraper for Avature ATS portals."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "lxml",
+    "tqdm",
+    "pydantic",
+    "curl-cffi",
+]

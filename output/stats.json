@@ -1,0 +1,90 @@
+{
+  "total_jobs": 19953,
+  "total_companies": 69,
+  "duplicates_removed": 2095,
+  "top_companies": [
+    {
+      "company": "Sandboxtesco",
+      "jobs": 2010
+    },
+    {
+      "company": "Manpowergroupco",
+      "jobs": 2004
+    },
+    {
+      "company": "Nva",
+      "jobs": 1816
+    },
+    {
+      "company": "Loa",
+      "jobs": 1671
+    },
+    {
+      "company": "Tesco",
+      "jobs": 1020
+    },
+    {
+      "company": "Deloitteus",
+      "jobs": 731
+    },
+    {
+      "company": "Deloittecm",
+      "jobs": 616
+    },
+    {
+      "company": "Xerox",
+      "jobs": 610
+    },
+    {
+      "company": "Mantech",
+      "jobs": 595
+    },
+    {
+      "company": "Advocateaurorahealth",
+      "jobs": 568
+    }
+  ],
+  "top_locations": [
+    {
+      "location": "Unknown",
+      "jobs": 18803
+    },
+    {
+      "location": "Los Angeles, CA",
+      "jobs": 329
+    },
+    {
+      "location": "Santa Monica, CA",
+      "jobs": 77
+    },
+    {
+      "location": "West Hills, CA",
+      "jobs": 43
+    },
+    {
+      "location": "Location:Novi - Michigan",
+      "jobs": 25
+    },
+    {
+      "location": "Charlotte, NC, USA",
+      "jobs": 24
+    },
+    {
+      "location": "Location:Bucharest - Bucharest",
+      "jobs": 21
+    },
+    {
+      "location": "Western Australia",
+      "jobs": 21
+    },
+    {
+      "location": "Location:Manaus - Amazonas",
+      "jobs": 18
+    },
+    {
+      "location": "Location:Northridge - California",
+      "jobs": 16
+    }
+  ],
+  "generated_at": "2026-02-27T04:37:07.449479"
+}
