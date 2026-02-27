@@ -5,12 +5,20 @@ A scraper to get job posts from Avature websites.
 ## How to Install
 
 ```bash
-pip install -r requirements.txt
+# Recommended (uv)
+uv sync
 ```
 
 ## How to Use
 
 ```bash
+uv run python main.py
+```
+
+Optional (pip workflow):
+
+```bash
+pip install -r requirements.txt
 python main.py
 ```
 
